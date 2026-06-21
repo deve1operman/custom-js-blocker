@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Dynamic JS Blocker",
+  "version": "2.0",
+  "description": "ポップアップから指定したサイトのJavaScriptを無効化します。",
+  "permissions": [
+    "contentSettings",
+    "activeTab",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
