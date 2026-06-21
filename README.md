@@ -14,10 +14,10 @@
 ### 1. パッケージ（ZIP）のダウンロード
 以下のいずれかの方法で最新版のZIPファイルをダウンロードし、任意の場所に解凍してください。
 
-* **公式ブログからダウンロード（推奨）**
-   [ツール公開とか雑記](https://deve1operman.blogspot.com/2026/06/blog-post.html)
 * **GitHubからダウンロード**
   このサイトから取得してください。
+* **公式ブログからダウンロード**
+   [ただ自分のサイトを踏んでほしいだけ](https://note.com/deve1operman/n/n26283a31cc96?app_launch=false)
 
 ### 2. ブラウザへの読み込み
 1. ChromeまたはEdgeを開き、拡張機能の管理画面（ `chrome://extensions/` または `edge://extensions/` ）にアクセスします。
